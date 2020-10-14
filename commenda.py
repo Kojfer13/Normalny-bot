@@ -15,4 +15,4 @@ async def on_message(message):
         await message.channel.send('Cześć {0.author.mention}!'.format(message))
 
 
-client.run('NzY1OTE5ODU1MjQ1MDAwNzI2.X4b0cw.zMYrSf7S1EnUS7ZcS9ybUL-ngJM')
+client.run('NzY1OTE5ODU1MjQ1MDAwNzI2.X4b0cw.mqO2ZXLPAEj7yF-lB10rovWy-vQ')
